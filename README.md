@@ -9,7 +9,7 @@ Hello there! 👋 I'm Aryan Saini, a passionate computer science student current
 - 💻 Proficient in Python and Java
 - 🌱 Learning Git and GitHub
 - 💼 Completed a Python programming internship with Codsoft
-- 🔧 Currently undertaking an open-source internship with Tublian
+
 
 ## My Journey
 
